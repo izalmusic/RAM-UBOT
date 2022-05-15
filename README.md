@@ -24,9 +24,8 @@
 <p align="center"><a href="https://t.me/userbotch/9"> <img src="https://img.shields.io/badge/TRAKTIR%20KOPI%20TIPIS²-blue?style=flat&logo=Paypal" width="300" height="38.60" /></a></p>
 
 
-## DEPLOY TO HEROKU
-<p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=cmFtYWRoYW5pODkyL1JBTS1VQk9UIG1hc3Rlcg"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-indigo?style=flat&logo=heroku" width="300" height="38.60" /></a></p>
-
+### DEPLOY TO HEROKU
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/izalmusic/RAM-UBOT)
 
 ## Credit
 TERIMAKASIH UNTUK
